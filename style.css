@@ -1,0 +1,18 @@
+body {
+    position: relative;
+}
+.header{
+    background: url(img.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    position: relative;
+    background-repeat: no-repeat;
+}
+.box {
+    background: black;
+    width: 379px;
+    background: #7d6952e8;
+    border-radius: 0px 15px 0px 15px;
+}
