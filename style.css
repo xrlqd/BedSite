@@ -10,9 +10,30 @@ body {
     position: relative;
     background-repeat: no-repeat;
 }
+.team {
+    background-color: #c2b7af38;
+}
+.lin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold
+}
 .box {
     background: black;
     width: 379px;
     background: #7d6952e8;
     border-radius: 0px 15px 0px 15px;
 }
+.imagine {
+    border-radius: 45px;
+    width: ;
+}
+.bb {
+ display: flex;
+ justify-content: space-around; 
+}
+/*.bb1 {
+    margin: none;
+    width: ;
+}*/
